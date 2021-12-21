@@ -12,4 +12,4 @@ Languages - Java, JavaScript, Python3, HTML5, CSS, SQL.
 Technologies - React, MongoDB, PostgreSQL, Express.js, Node.js, Flask, Spring and starting to explore Unity.
 Skills & Principles - TDD, OOP, Agile Development, Full Stack Web Development, RESTful Routes, RESTful APIs, CRUD, SOLID Principles, Four Pillars of OOP.
 
-
+LinkedIn: https://www.linkedin.com/in/lucinda-shale-590327211/
