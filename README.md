@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**RubyGraph1c/RubyGraph1c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi everyone, I'm Lucinda! 👋 Recent CodeClan graduate and Glasgow based Junior Full Stack Developer. I'm interested in Web and Game Development.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a Spring/React news app.
+- 👯 I’m currently looking for a Jnr Dev role.
+- 📫 How to reach me: lucindashalework@gmail.com
+- 😄 Pronouns: She/her.
+- ⚡ Fun fact: I'm also a professional singer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have experience in the following:
+Languages - Java, JavaScript, Python3, HTML5, CSS, SQL.
+Technologies - React, MongoDB, PostgreSQL, Express.js, Node.js, Flask, Spring and starting to explore Unity.
+Skills & Principles - TDD, OOP, Agile Development, Full Stack Web Development, RESTful Routes, RESTful APIs, CRUD, SOLID Principles, Four Pillars of OOP.
+
+
