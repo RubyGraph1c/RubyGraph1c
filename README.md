@@ -1,11 +1,10 @@
 
 Hi everyone, I'm Lucinda! 👋 Recent CodeClan graduate and Glasgow based Junior Full Stack Developer. I'm interested in Web and Game Development.
 
-- 🔭 I’m currently working on a Spring/React news app.
-- 👯 I’m currently looking for a Jnr Dev role.
-- 📫 How to reach me: lucindashalework@gmail.com
+- 🔭 I’m currently studying Game Design and Production at Abertay University.
+- 📫 How to reach me: lucindamakesgames@outlook.com
 - 😄 Pronouns: She/her.
-- ⚡ Fun fact: I'm also a professional singer.
+- ⚡ Fun fact: I'm also a singer.
 
 I have experience in the following:
 Languages - Java, JavaScript, Python3, HTML5, CSS, SQL.
