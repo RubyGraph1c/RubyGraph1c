@@ -1,14 +1,19 @@
 
-Hi everyone, I'm Lucinda! 👋 Recent CodeClan graduate and Glasgow based Junior Full Stack Developer. I'm interested in Web and Game Development.
+Hi everyone, I'm Lucinda! 👋 
+I'm a CodeClan graduate (2021) and Game Design and Production student at Abertay University (2026).
 
-- 🔭 I’m currently studying Game Design and Production at Abertay University.
-- 📫 How to reach me: lucindamakesgames@outlook.com
-- 😄 Pronouns: She/her.
-- ⚡ Fun fact: I'm also a singer.
+Current individual projects: 
+- Programming a 2D platformer (Unity/C#)
+- Producing game art for a horror/survival game (Photoshop/Illustrator)
+- Level design and asset creation using 3D modelling (Maya)
+
+Current group projects: 
+- A narrative driven eductational game based on Scotland's hidden past with the Caribbean and the slave trade (Twine)
 
 I have experience in the following:
-Languages - Java, JavaScript, Python3, HTML5, CSS, SQL.
-Technologies - React, MongoDB, PostgreSQL, Express.js, Node.js, Flask, Spring and starting to explore Unity.
-Skills & Principles - TDD, OOP, Agile Development, Full Stack Web Development, RESTful Routes, RESTful APIs, CRUD, SOLID Principles, Four Pillars of OOP.
+Languages: Java, JavaScript, Python3, HTML5, CSS, SQL & C#
+Tools: Unity, Minecraft Education, Photoshop, Illustrator, Maya & Twine
 
+📫 How to reach me: lucindamakesgames@outlook.com
 LinkedIn: https://www.linkedin.com/in/lucinda-shale-590327211/
+
