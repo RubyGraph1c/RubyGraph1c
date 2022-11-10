@@ -11,6 +11,7 @@ Current group projects:
 - A narrative driven eductational game based on Scotland's hidden past with the Caribbean and the slave trade (Twine)
 
 I have experience in the following:
+
 Languages: Java, JavaScript, Python3, HTML5, CSS, SQL & C#
 
 Tools: Unity, Minecraft Education, Photoshop, Illustrator, Maya & Twine
