@@ -12,6 +12,7 @@ Current group projects:
 
 I have experience in the following:
 Languages: Java, JavaScript, Python3, HTML5, CSS, SQL & C#
+
 Tools: Unity, Minecraft Education, Photoshop, Illustrator, Maya & Twine
 
 📫 How to reach me: lucindamakesgames@outlook.com
