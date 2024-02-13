@@ -1,15 +1,15 @@
 
 Hi everyone, I'm Lucinda! 👋 
-I study Game Design and Production student at Abertay University (2026).
+I study Game Design and Production student at Abertay University (graduating 2026).
 
 I have experience in the following:
 
-Languages: C#
+Languages: C#, Javascript, Java, Python, SQL 
 
-Tools: Unity, Minecraft Education, Photoshop, Illustrator, Maya, Blender & Twine.
+Tools: Unity, Figma, Minecraft Education, Photoshop, Illustrator, Maya, Blender & Twine.
 
 
-📫 How to reach me: lucindamakesgames@outlook.com
+📫 How to reach me: l.shale@abertay.ac.uk
 LinkedIn: https://www.linkedin.com/in/lucinda-shale-590327211/
-Twitter: @LucindaGames @LucindaECS
+Instagram: @lucindaevelyn
 
