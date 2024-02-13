@@ -9,7 +9,11 @@ Languages: C#, Javascript, Java, Python, SQL
 Tools: Unity, Figma, Minecraft Education, Photoshop, Illustrator, Maya, Blender & Twine.
 
 
-📫 How to reach me: l.shale@abertay.ac.uk
+📫 How to reach me:
+
+Email: l.shale@abertay.ac.uk
+
 LinkedIn: https://www.linkedin.com/in/lucinda-shale-590327211/
+
 Instagram: @lucindaevelyn
 
